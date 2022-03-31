@@ -1,2 +1,3 @@
 # roomloom
-Create peer to peer rooms.
+
+a library for looming peer to peer rooms with WebRTC
